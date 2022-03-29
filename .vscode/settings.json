@@ -9,10 +9,13 @@
   "files.defaultLanguage": "markdown",
   "files.exclude": {
     "**/node_modules": true
+    
   },
   "files.watcherExclude": {
-    "**/node_modules": true
+    "**/node_modules": true,
+    
   },
+    
   "foam.edit.linkReferenceDefinitions": "off",
   "foam.openDailyNote.directory": "journal",
   "foam.openDailyNote.titleFormat": "fullDate",
@@ -25,4 +28,12 @@
   "spellright.notificationClass": "warning",
   "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
   "vscodeMarkdownNotes.slugifyMethod": "github-slugger",
+  "spellright.language": [
+    "en"
+  ],
+  "spellright.documentTypes": [
+    "markdown",
+    "latex",
+    "plaintext"
+  ],
 }
