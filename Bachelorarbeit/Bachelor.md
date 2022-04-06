@@ -9,17 +9,20 @@ keywords: Bachelor
 [[Prüfer-und-Betreuer]]
 [[Abstract]]
 [[Literatur]]
+[[Materialien]]
 
-## Todo:
+## Todo
 
-- [ ] Anmeldung absenden
-- [ ] Github Repo als Backup anlegen
+- [x] Anmeldung absenden
+- [x] Github Repo als Backup anlegen -> das foam repo benutzen
 - [ ] Foam auf dem Laptop bereitstellen
 
 ### Todo Woche 1 + 2
- - [ ] Konzeptionierung und Umsetzung eines Testaufbaus
-   - [ ] Informationen zu Testaufbauten finden / Quellen
-   - [ ] Anforderungen an den Testaufbau definieren
-   - [ ] Skizzieren
-   - [ ] Prototypen
-   - [ ] Testen 
+
+- [ ] Konzeptionierung und Umsetzung eines Testaufbaus
+  - [ ] Informationen zu Testaufbauten finden / Quellen -> ncap crashtest
+  - [ ] Anforderungen an den Testaufbau definieren
+  - [ ] Skizzieren
+  - [ ] Prototypen
+  - [ ] Testen
+  
