@@ -23,7 +23,7 @@ keywords: Bachelor
 
 - [ ] Konzeptionierung und Umsetzung eines Testaufbaus
   - [ ] Informationen zu Testaufbauten finden / Quellen -> ncap crashtest
-  - [ ] Anforderungen an den Testaufbau definieren
+  - [x] Anforderungen an den Testaufbau definieren
   - [ ] Skizzieren
   - [ ] Prototypen
   - [ ] Testen
