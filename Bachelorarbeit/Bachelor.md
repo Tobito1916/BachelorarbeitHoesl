@@ -10,6 +10,8 @@ keywords: Bachelor
 [[Abstract]]
 [[Literatur]]
 [[Materialien]]
+[[Besprechungen]]
+[[Gliederung]]
 
 ## Todo
 
